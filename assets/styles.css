@@ -1,0 +1,21 @@
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.row-space-between{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.padding-left-ten{
+    padding-left:10px;
+}
+
+.bullet-points-hidden{
+    list-style-type: none;
+}
+
+
+  
